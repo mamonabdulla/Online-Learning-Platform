@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
@@ -100,3 +101,6 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 =======
 # Online-Learning-Platform
 >>>>>>> 212bbdee154ff379a903a43a59c58ff6315371e0
+=======
+# Online-Learning-Platform
+>>>>>>> 892674a7745779df431cf0e57b73ca1647cc5d2e
